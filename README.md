@@ -1,2 +1,2 @@
 # SWIFT-
-Code for building up a simulator
+building up a simulator for Interference analysis
